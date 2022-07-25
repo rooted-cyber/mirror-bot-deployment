@@ -17,6 +17,6 @@
 
 # workflow bot 6 hours
 
-## https://github.com/rooted-cyber/heroku-mirrorbot
+## https://github.com/rootedcyber93/mbot-flow/actions
 
-## https://github.com/rootedcyber93/anasty-workflow
+## https://github.com/rootedcyber93/anasty-workflow/actions
